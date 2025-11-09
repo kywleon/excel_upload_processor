@@ -38,7 +38,7 @@ A Laravel + Vue 3 application that allows users to upload Excel or CSV files, pr
 | Backend | Laravel Framework **12.37.0** |
 | Frontend | Vue.js **v3** |
 | Queue System | Laravel Queues / Jobs |
-| Database | SQLite (development) / MySQL (production-ready) |
+| Database | SQLite (development) |
 | Language | PHP 8+, JavaScript (ES6+) |
 
 ---
